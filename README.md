@@ -59,6 +59,7 @@ http://localhost:8501
 │── requirements.txt     # Liste des dépendances
 │── pages/               # Dossier contenant les pages
 │── superstore.csv       # Export du jeu de données SuperStore
+│── LICENSE              # License du projet (MIT)
 └── README.md            # Documentation du projet
 ```
 
