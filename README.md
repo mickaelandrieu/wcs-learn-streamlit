@@ -56,9 +56,9 @@ http://localhost:8501
 ```
 📂 wcs-learn-streamlit
 │── app.py               # Fichier principal de l'application Streamlit
-│── requirements.txt      # Liste des dépendances
-│── data/                # Dossier contenant les fichiers de données
-│── utils/               # Fonctions utilitaires
+│── requirements.txt     # Liste des dépendances
+│── pages/               # Dossier contenant les pages
+│── superstore.csv       # Export du jeu de données SuperStore
 └── README.md            # Documentation du projet
 ```
 
